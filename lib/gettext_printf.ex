@@ -12,6 +12,7 @@ defmodule GettextPrintf do
       :world
 
   """
+  @spec hello :: :world
   def hello do
     :world
   end
