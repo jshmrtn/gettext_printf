@@ -9,6 +9,8 @@
 
 Providing a [gettext](https://hex.pm/packages/gettext) printf interpolator.
 
+This provides a message format close to the [C Format String](https://www.gnu.org/software/gettext/manual/gettext.html#c_002dformat) specification for gettext.
+
 ## Installation
 
 The package can be installed by adding `gettext_printf` to your list of dependencies in `mix.exs`:
