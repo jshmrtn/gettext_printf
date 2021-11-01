@@ -3,7 +3,6 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jshmrtn/gettext_printf/main/LICENSE)
 [![.github/workflows/ci.yml](https://github.com/jshmrtn/gettext_printf/actions/workflows/ci.yml/badge.svg)](https://github.com/jshmrtn/gettext_printf/actions/workflows/ci.yml)
 [![Coverage Status](https://coveralls.io/repos/github/jshmrtn/gettext_printf/badge.svg?branch=main)](https://coveralls.io/github/jshmrtn/gettext_printf?branch=main)
-[![License](https://img.shields.io/badge/License-BSL%201.1%20%2F%20Apache%202.0-blue.svg)](https://mariadb.com/bsl11/)
 [![Last Updated](https://img.shields.io/github/last-commit/jshmrtn/gettext_printf.svg)](https://github.com/jshmrtn/gettext_printf/commits/main)
 [![Hex.pm Version](https://img.shields.io/hexpm/v/gettext_printf.svg?style=flat)](https://hex.pm/packages/gettext_printf)
 
