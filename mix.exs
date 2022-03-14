@@ -57,7 +57,7 @@ defmodule GettextPrintf.MixProject do
       {:ex_doc, "~> 0.24", runtime: false, only: [:dev, :test], override: true},
       # TODO: Switch to released version
       {:gettext, "~> 0.18", github: "elixir-gettext/gettext", branch: "main", override: true},
-      {:ex_cldr_print, "~> 0.4.0"}
+      {:ex_cldr_print, "~> 1.0.0"}
     ]
   end
 end
